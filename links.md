@@ -1,0 +1,8 @@
+- https://www.angulararchitects.io/en/blog/asynchronous-resources-with-angulars-new-resource-api/
+- https://www.youtube.com/watch?v=hFR3gVIY9gM
+- https://www.youtube.com/watch?v=_KyCmpMlVTc
+- https://www.youtube.com/watch?v=Up6DKUUs45c
+- https://www.youtube.com/watch?v=Jv9RO9bR5Gw
+- https://blog.ninja-squad.com/2024/11/19/what-is-new-angular-19.0/
+- https://blog.angular.dev/meet-angular-v19-7b29dfd05b84
+- https://discord.com/channels/1127340805741359164/1328016939544481843
